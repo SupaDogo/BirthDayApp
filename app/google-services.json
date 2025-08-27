@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890121837094",
+    "project_id": "mandatoryurban",
+    "storage_bucket": "mandatoryurban.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890121837094:android:7104fb6544c6931bcaa4e7",
+        "android_client_info": {
+          "package_name": "com.example.mandatoryurban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vujgHwUO5eSy1O3uPYlM3gknRPRSdCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
